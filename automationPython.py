@@ -17,7 +17,6 @@ links_landing_titles = {
     "Resources"  : "resources",
     }
     
-
 class SauceLabsGlyphLinks(unittest.TestCase):
 
     def setUp(self):
