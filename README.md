@@ -1,5 +1,5 @@
 # File details and automation project explanation
-**automationPython**      - main answer, solved with selenium using python\n
+**automationPython**      - main answer, solved with selenium using python<br />
 **automationSeleniumIDE** - same problem solved with selenium IDE tool
 
 *Assignment*
